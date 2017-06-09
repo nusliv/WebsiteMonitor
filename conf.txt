@@ -1,0 +1,10 @@
+{
+  "log_level": "DEBUG", 
+  "interval": 1, 
+  "maxHistoryLen": 200, 
+  "maxContinuousBad": 3, 
+  "urls": [
+    "localhost:12345"
+  ], 
+  "log_file": "/tmp/log.txt"
+}
